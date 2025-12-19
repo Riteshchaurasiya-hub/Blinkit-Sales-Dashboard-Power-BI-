@@ -26,11 +26,12 @@ It includes key insights such as:
 - Microsoft Power BI  
 - DAX  
 - Data Cleaning  
-- Data Modelling  
+- Data Modelling
+- Chat gpt
 
 ## 🙌 About the Project  
 This dashboard helps understand customer behavior, revenue trends, outlet performance, and product segments — useful for both business insights and portfolio projects.
 
-## 📬 Contact  
+## 📬 Contact  (9654640987) 
 **Ritesh Chaurasiya**  
 If you like this project, don’t forget to ⭐ star the repository!
